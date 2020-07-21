@@ -51,8 +51,8 @@ describe('for function', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expectedForSingleArgument = undefined;
-    const expectedForTwoArguments = undefined;
+    const expectedForSingleArgument = -5;
+    const expectedForTwoArguments = 2;
     // --end->
 
     expect(minus(5)).toEqual(expectedForSingleArgument);
