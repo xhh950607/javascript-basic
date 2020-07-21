@@ -110,8 +110,8 @@ describe('for function', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expectedName = undefined;
-    const expectedReturnValueName = undefined;
+    const expectedName = 'Bob';
+    const expectedReturnValueName = 'Bob';
     // --end->
 
     expect(person.name).toEqual(expectedName);
