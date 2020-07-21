@@ -166,7 +166,7 @@ describe('for function', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = '(((1 * 3) + 5) * 3)';
     // --end->
 
     expect(findSolution(24)).toEqual(expected);
