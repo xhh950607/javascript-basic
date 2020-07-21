@@ -11,7 +11,7 @@ describe('for function', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expected = undefined;
+    const expected = 'Hello World';
     // --end->
 
     expect(outerFunction()).toEqual(expected);
