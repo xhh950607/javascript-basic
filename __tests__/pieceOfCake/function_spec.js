@@ -89,8 +89,8 @@ describe('for function', () => {
 
     // <--start
     // Please write down the correct value. You should write the final result directly.
-    const expectedReturnValue = undefined;
-    const expectedWord = undefined;
+    const expectedReturnValue = 'Changed';
+    const expectedWord = 'Origin';
     // --end->
 
     expect(returnValue).toEqual(expectedReturnValue);
