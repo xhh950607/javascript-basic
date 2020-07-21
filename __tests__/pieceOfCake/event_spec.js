@@ -16,7 +16,7 @@ describe('for event', () => {
 
     // <--start
     // Please add the event listener to handle `click` event on `element`.
-
+    element.addListener('click', onClick);
     // --end->
 
     element.emit('click');
